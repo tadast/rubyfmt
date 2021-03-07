@@ -9,7 +9,7 @@ No, but it's getting really close
 ## How do I use it
 
 Build it:
-1. Make sure you've got cargo installed
+1. Make sure you've got [cargo](https://github.com/rust-lang/cargo) and [bison](https://www.gnu.org/software/bison) installed
 2. Run `make all`
 3. Copy target/release/rubyfmt-main to somewhere on your path as `rubyfmt`
 
